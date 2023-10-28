@@ -1,0 +1,26 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+title {
+
+}
+
+/* Styling the body of kattiewebsite.html */
+body {
+    background-color: #fce4ec; /* Light pink background color */
+    margin-left: 200px; /* Pushing body text 200px from the left */
+    margin-right: 200px;
+    text-align: center;
+
+}
+
+/* Styling the title */
+h1 {
+    text-align: center; /* Center the title */
+    padding: 20px; /* Add padding to the title for better visual appearance */
+}
+
