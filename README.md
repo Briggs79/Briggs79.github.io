@@ -1,6 +1,5 @@
 
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>Kattie <3</title>
