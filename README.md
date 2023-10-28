@@ -38,7 +38,7 @@ h1 {
                 <br>
 				<l>I know that you have been having some financial trouble this month and I don’t want you to worry about not being able to eat or eating very little just because you’re low on money. You can always ask me for some money to get by, I know its hard to do but I just want to help. You mean the world to me sweetheart and it’s ok to struggle just don’t forget that I’m here for you love bug. 
 				<br>
-				<l>I love you so so freaking much sweetheart happy 18 months, MWAH MWAH MWAH!</p>
+				<l>I love you so so freaking much sweetheart happy 18 months, MWAH MWAH MWAH!
 				<br>
 				<l> 10/28/2023
     			<br>
